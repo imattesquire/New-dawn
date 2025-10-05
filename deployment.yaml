@@ -1,0 +1,2 @@
+- name: setup android sdk for self hosted runner
+  uses: amyu/setup-android@v5
