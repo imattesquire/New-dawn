@@ -1,0 +1,6 @@
+services:
+  newdawn:
+    image: newdawn
+    build:
+      context: .
+      dockerfile: ./Dockerfile
